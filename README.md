@@ -6,4 +6,4 @@ the tools  that i have used:
 - SASS
 - CSS 3
 - Figma
- Thamk you for viewing my projects
+ Thank you for viewing my projects
